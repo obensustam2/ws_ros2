@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/oben/ws_ros2/install/tutorial_interfaces/include/**",
+        "/home/oben/ws_ros2/install/polygon_plugins/include/**",
+        "/home/oben/ws_ros2/install/polygon_base/include/**",
+        "/home/oben/ws_ros2/install/more_interfaces/include/**",
+        "/home/oben/ws_ros2/install/action_tutorials_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/oben/ws_ros2/src/action_tutorials_cpp/include/**",
+        "/home/oben/ws_ros2/src/polygon_base/include/**",
+        "/home/oben/ws_ros2/src/polygon_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
